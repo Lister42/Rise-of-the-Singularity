@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7ce7ad0e3c2beea4c8814c7678db713b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _coreSoundClip: {fileID: 8300000, guid: e913e5ac281f99949a43d3ce61a362ec, type: 3}
+  - _buildSiteSoundClip: {instanceID: 0}
+  - _mineSoundClip: {fileID: 8300000, guid: 4a24915cbc43d5f42b771dc4ae3a556c, type: 3}
+  - _staticCollectorSoundClip: {fileID: 8300000, guid: 512f757478b3ff04dbdfbe507387ecd9, type: 3}
+  - _factorySoundClip: {fileID: 8300000, guid: a205d25b6a146d247a7b30945c4557d4, type: 3}
+  - _turretSoundClip: {instanceID: 0}
+  - _workerSoundClip: {instanceID: 0}
+  - _meleeSoundClip: {instanceID: 0}
+  - _rangedSoundClip: {instanceID: 0}
+  - _metalSoundClip: {instanceID: 0}
+  - _staticSoundClip: {instanceID: 0}
+  - _platinumSoundClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6604bc5c56010a54581e463b6122558b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _unitDeathExplosionPrefab: {fileID: 4575303467448409906, guid: 0cf563276f699b4488eb8597c8fc2df4, type: 3}
+  - _meleeAttackPrefab: {fileID: 3048968413199792499, guid: 1b353ed8f568977448616c67b2b57a2a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
